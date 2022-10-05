@@ -1,8 +1,8 @@
 Know Me More :)
 - 👋 Hi, I’m @ashwinsk24
 - 👀 I’m interested in Web Development, Python, Java and Flutter.
-- 🌱 I’m currently learning Web Development and Flutter
-- 💞️ I’m looking to collaborate on Web Designing
+- 🌱 I’m currently into Web Development and Flutter
+
 - 📫 How to reach me https://ashwinsk24.github.io/portfolio/
 
 <!---
